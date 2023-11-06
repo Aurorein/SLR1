@@ -1,2 +1,2 @@
 # SLR1
-SLR1 lexical analysis
+SLR1 grammer analysis
